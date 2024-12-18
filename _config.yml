@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Data Analyst and Data Scientist"
   links:
-    - label: "GitHub Projects"
+    - label: "All Projects"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ShazilAhmad99/PorfolioProjects"
 
